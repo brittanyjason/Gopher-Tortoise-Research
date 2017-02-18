@@ -84,6 +84,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ![study area](StudyArea.PNG)
 
-![study area](largestudyarea.PNG)
+![largest study area](largestudyarea.PNG)
 
-![study area](studyarea2.PNG)
+![study area 2](studyarea2.PNG)
