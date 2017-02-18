@@ -2,6 +2,12 @@
 
 ![tortoise](GT1.jpg)
 
+## Gopher Tortoise Habitat
+
+Typically, gopher tortoises are found in upland habitats that consist of well-drained sandy soiled areas, you can find them in other habitats such as: scrub, xeric hammock, pine flatwoods, dry prairie, coastal grasslands and dunes, mixed hardwood-pine communities and other disturbed habitats (Auffenberg and Franz 1982; Kushlan and Mazzotti 1984; Diemer 1986, 1987, 1992b; Breininger et al. 1994; Ashton and Ashton 2008). 
+
+![ideal habitat](sandhill.jpg)
+
 ## Our Study Area
 
 This LiDAR dataset is a 17 km2 subset from a 49 km2 total area from Wekiwa Springs State Park obtained from [OpenTopography](http://opentopo.sdsc.edu/lidarDataset?opentopoID=OTLAS.062012.26917.1). There are 112700100 points in the subset. The area is comprised of sandhill and flatwood habitats with some ephemeral swamps. Prescribed fires are often conducted which will clear out excess fuel loads, and provide open ground for new vegetation to propagate. This new vegetation provides palatable forage for many herbivores. The west and south sides are bordering residential areas.
@@ -12,15 +18,11 @@ Points were classified into low vegetation (points below 0.5 meters but above th
 
 ![study area](StudyArea.PNG)
 
-![largest study area](largestudyarea.PNG)
-
-![study area 2](studyarea2.PNG)
-
 ## What is LiDAR?
 
 Light detection and ranging (LiDAR) is a remote sensing surveying method which measures the distance from an aerial sensor to the surface of the landscape. Each time an object is registered a point is generated. Each LiDAR dataset may contain millions of points to map the landscape. The landscape is represented by all natural and artificial object and structures, so LiDAR maps the surface of the ground, trees, buildings, etc. Utilizing algorithms, software analyzes the points to classify various terrain types such as the ground surface, low vegetation, medium vegetation, and high vegetation. These different types are represented in a point map as different colors.
 
-## DEMs
+## Digital Elevation Models (DEMs)
 
 ![DEM of all vegetation classes](DEMclass3_4_5.PNG)
 
@@ -33,6 +35,10 @@ Light detection and ranging (LiDAR) is a remote sensing surveying method which m
 ## How You Can Help!
 
 Help Us! Be a citizen scientist! [FWC](https://mangomap.com/fwcwebmaster/maps/52930/Gopher-Tortoise-Sightings#) has an easy-to-use website that you can upload images of gopher tortoises that you have spotted with the location and they will map it for everyone to view. There have been very few citizen scientists in our study area and we would love your help! If you are enjoying the Wekiwa Springs State Park please feel free to take photos of gopher tortoises and their burrows, but remember, you are in their home and please do not disturb this protected species. Please take only pictures and leave only footprints!
+
+![tortoisesign](GT4.jpg)
+
+![tortoisesign3](GT6.JPG)
 
 You can use the [editor on GitHub](https://github.com/brittanyjason/tortoise_mapping/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -79,11 +85,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ![tortoise2](GT3.jpg)
 
-![tortoisesign](GT4.jpg)
+
 
 ![tortoisesign2](master/GT5.jpg)
 
-![tortoisesign3](GT6.JPG)
+
 
 ![all vegetation classes points per cell 1m size](all345_1m_ptspercell.PNG)
 
@@ -108,9 +114,3 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ![class 5 vegetation points per cell 5m size](only5_5m_ptspercell.PNG)
 
 ![class 5 vegetation points per cell 10m size](only5_10m_ptspercell.PNG)
-
-![ideal habitat](sandhill.jpg)
-
-
-
-
