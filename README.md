@@ -32,6 +32,8 @@ Points were classified into low vegetation (points below 0.5 meters but above th
 
 Light detection and ranging (LiDAR) is a remote sensing surveying method which measures the distance from an aerial sensor to the surface of the landscape. Each time an object is registered a point is generated. Each LiDAR dataset may contain millions of points to map the landscape. The landscape is represented by all natural and artificial object and structures, so LiDAR maps the surface of the ground, trees, buildings, etc. Utilizing algorithms, software analyzes the points to classify various terrain types such as the ground surface, low vegetation, medium vegetation, and high vegetation. These different types are represented in a point map as different colors.
 
+![lidar explanation](lidar.jpg)
+
 ## Digital Elevation Models (DEMs)
 
 DEM of all three vegetation classes (low, medium and high vegeation) 
@@ -51,6 +53,8 @@ DEM of High Vegetation- Red is where there is a high amount of high vegation, wh
 ![DEM of high vegetation](DEMclass5.PNG)
 
 ## Return Points Per Cell from LiDAR at 5m
+
+These images of our study area depict the amount of points per 5m area throughout our dataset. The white areas are areas with no/unclassified data. The red areas show where we have the most data and blue is the least.
 
 Low Vegetation
 
@@ -74,6 +78,8 @@ Legend ![all3 5m](legend_5m_345all.PNG)
 
 ## Return Points Per Cell from LiDAR at 10m 
 
+These images of study area depict the amount of points per 10m area throughout our dataset. The white areas are areas with no/unclassified data. The red areas show where we have the most data and blue is the least.
+
 Low Vegetation
 
 ![class 3 vegetation points per cell 10m size](only3_10m_ptspercell.PNG)
@@ -91,9 +97,17 @@ All Three Classes (low,medium, high) Together
 ![all vegetation classes points per cell 10m size](all345_10m_ptspercell.PNG)
 Legend ![all3 10m](legend_10m_345all.PNG)
 
+## Implications of Our Research
+
+This work has implications due to the fact that gopher tortoises have a wide range of habitat options. They enjoy sand and scrub but have been found in forested areas and in the dunes near beaches. Low vegetation was important to us in this study, they may prefer areas that have lower scrub as they will be foraging on the ground only. 
+
+## Our Recommendation For Gopher Tortoise Protected Areas
+Below we have boxed areas that we have found to be some of the best habitat for gopher tortoises that we would like to protect in the future.
+
+![areashighlighted](tortiareas.png)
+
 ## Acknowledgements
 
-OpenTopography Acknowledgment
 This material is based on [data, processing] services provided by the OpenTopography Facility with support from the National Science Foundation under NSF Award Numbers 1226353 & 1225810
 
 Data Provider Acknowledgment
@@ -116,13 +130,4 @@ Diemer, J. E. 1992b. Home range and movements of the tortoise Gopherus polyphemu
 
 Kushlan, J. A., and F. J. Mazzotti. 1984. Environmental effects on a coastal population of gopher tortoises. Journal of Herpetology 18:231–239.
 
-
-
-
-![lidar explanation](lidar.jpg)
-
 ![tortoise2](GT2.jpg)
-
-![tortoise2](GT3.jpg)
-
-![areashighlighted](tortiareas.png)
