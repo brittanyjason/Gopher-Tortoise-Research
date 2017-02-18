@@ -87,3 +87,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ![largest study area](largestudyarea.PNG)
 
 ![study area 2](studyarea2.PNG)
+
+![subset area](subsetarea.PNG)
