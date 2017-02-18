@@ -50,7 +50,7 @@ DEM of High Vegetation- Red is where there is a high amount of high vegation, wh
 
 ![DEM of high vegetation](DEMclass5.PNG)
 
-## Return Points Per Cell at 5m
+## Return Points Per Cell from LiDAR at 5m
 
 Low Vegetation
 
@@ -67,12 +67,38 @@ High Vegetation
 ![class 5 vegetation points per cell 5m size](only5_5m_ptspercell.PNG)
 Legend ![class5 5m](legend_5m_5only.PNG)
 
-All Three Classes Together
+All Three Classes (low, medium, high) Together
 
 ![all vegetation classes points per cell 5m size](all345_5m_ptspercell.PNG)
 Legend ![all3 5m](legend_5m_345all.PNG)
 
+## Return Points Per Cell from LiDAR at 10m 
 
+Low Vegetation
+
+![class 3 vegetation points per cell 10m size](only3_10m_ptspercell.PNG)
+Legend ![low 10m legend](legend_10m_3only.PNG)
+
+Medium Vegetation
+![class 4 vegetation points per cell 10m size](only4_10m_ptspercell.PNG)
+Legend ![med 10mlegend](legend_10m_4only.PNG)
+
+High Vegetation
+![class 5 vegetation points per cell 10m size](only5_10m_ptspercell.PNG)
+Legend ![legend high 10m](legend_10m_5only.PNG)
+
+All Three Classes (low,medium, high) Together
+![all vegetation classes points per cell 10m size](all345_10m_ptspercell.PNG)
+Legend ![all3 10m](legend_10m_345all.PNG)
+
+## Acknowledgements
+
+OpenTopography Acknowledgment
+This material is based on [data, processing] services provided by the OpenTopography Facility with support from the National Science Foundation under NSF Award Numbers 1226353 & 1225810
+
+Data Provider Acknowledgment
+OpenTopography hosts datasets that have been collected by many research, governmental, and non-profit organizations funded by a variety of sources. The data user bears sole responsibility for recognizing the role of the data provider through co-authorship, citation, sponsor acknowledgement, and/or attribution, as appropriate and consistent with professional standards and sponsor requirements.
+OpenTopography provides dataset acknowledgement language specific to each hosted dataset. This language is composed by the data provider can be found on the dataset access page and through the dataset’s metadata. OpenTopography also provides a Digital Object Identifier (DOI) for each hosted dataset as a means to facilitate data citation. Inclusion of the dataset’s DOI in your data citation or acknowledgement ensures that the dataset can be accessed and reused, data impact can be tracked, and that data producers and collectors are recognized.
 
 
 You can use the [editor on GitHub](https://github.com/brittanyjason/tortoise_mapping/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -111,25 +137,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-
-
-
-
+![lidar explanation](lidar.jpg)
 
 ![tortoise2](GT2.jpg)
 
 ![tortoise2](GT3.jpg)
 
 ![tortoisesign2](master/GT5.jpg)
-
-![all vegetation classes points per cell 10m size](all345_10m_ptspercell.PNG)
-
-
-![class 3 vegetation points per cell 10m size](only3_10m_ptspercell.PNG)
-
-![class 4 vegetation points per cell 10m size](only4_10m_ptspercell.PNG)
-
-
-
-
-![class 5 vegetation points per cell 10m size](only5_10m_ptspercell.PNG)
