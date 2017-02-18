@@ -34,8 +34,11 @@ Points were classified into low vegetation (points below 0.5 meters but above th
 
 ![subset area](subsetarea.png)
 
+Images created in ArcGIS10.4 with their basemap.
+
 ![study area](StudyArea.PNG)
 
+Images created in ArcGIS10.4 with their basemap.
 ## What is LiDAR?
 
 Light detection and ranging (LiDAR) is a remote sensing surveying method which measures the distance from an aerial sensor to the surface of the landscape. Each time an object is registered a point is generated. Each LiDAR dataset may contain millions of points to map the landscape. The landscape is represented by all natural and artificial object and structures, so LiDAR maps the surface of the ground, trees, buildings, etc. Utilizing algorithms, software analyzes the points to classify various terrain types such as the ground surface, low vegetation, medium vegetation, and high vegetation. These different types are represented in a point map as different colors.
@@ -140,6 +143,7 @@ Diemer, J. E. 1992b. Home range and movements of the tortoise Gopherus polyphemu
 Kushlan, J. A., and F. J. Mazzotti. 1984. Environmental effects on a coastal population of gopher tortoises. Journal of Herpetology 18:231–239.
 
 ![tortoise2](GT2.jpg)
+
 Source: http://www.americaslongleaf.org/news/news-articles/range-wide-conservation-strategy-for-the-gopher-tortoise-now-available/
 
 This webpage was created on the 18th of February 2017 by Jason Richardson and Brittany Capra at the University of South Florida in Tampa, FL.
