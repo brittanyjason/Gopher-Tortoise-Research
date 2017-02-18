@@ -88,4 +88,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ![study area 2](studyarea2.PNG)
 
-![subset area](subsetarea.PNG)
+![subset area](subsetarea.png)
