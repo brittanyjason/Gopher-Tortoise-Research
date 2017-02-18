@@ -36,8 +36,48 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
+![DEM of all vegetation classes](https://github.com/brittanyjason/tortoise_mapping/blob/master/DEMclass3_4_5.PNG)
+
 ![DEM of low vegetation](https://github.com/brittanyjason/tortoise_mapping/blob/master/DEMclass3.PNG)
+
+![DEM of mid vegetation](https://github.com/brittanyjason/tortoise_mapping/blob/master/DEMclass4.PNG)
+
+![DEM of high vegetation](https://github.com/brittanyjason/tortoise_mapping/blob/master/DEMclass5.PNG)
 
 ![tortoise](https://github.com/brittanyjason/tortoise_mapping/blob/master/GT1.jpg)
 
 ![tortoise2](https://github.com/brittanyjason/tortoise_mapping/blob/master/GT2.jpg)
+
+![tortoise2](https://github.com/brittanyjason/tortoise_mapping/blob/master/GT3.jpg)
+
+![tortoisesign](https://github.com/brittanyjason/tortoise_mapping/blob/master/GT4.jpg)
+
+![tortoisesign2](https://github.com/brittanyjason/tortoise_mapping/blob/master/GT5.jpg)
+
+![tortoisesign3](https://github.com/brittanyjason/tortoise_mapping/blob/master/GT6.JPG)
+
+![all vegetation classes points per cell 1m size](https://github.com/brittanyjason/tortoise_mapping/blob/master/all345_1m_ptspercell.PNG)
+
+![all vegetation classes points per cell 5m size](https://github.com/brittanyjason/tortoise_mapping/blob/master/all345_5m_ptspercell.PNG)
+
+![all vegetation classes points per cell 10m size](https://github.com/brittanyjason/tortoise_mapping/blob/master/all345_10m_ptspercell.PNG)
+
+![class 3 vegetation points per cell 1m size](https://github.com/brittanyjason/tortoise_mapping/blob/master/only3_1mptspercell.PNG)
+
+![class 3 vegetation points per cell 5m size](https://github.com/brittanyjason/tortoise_mapping/blob/master/only3_5m_ptspercell.PNG)
+
+![class 3 vegetation points per cell 10m size](https://github.com/brittanyjason/tortoise_mapping/blob/master/only3_10m_ptspercell.PNG)
+
+![class 4 vegetation points per cell 1m size](https://github.com/brittanyjason/tortoise_mapping/blob/master/only4_1mptspercell.PNG)
+
+![class 4 vegetation points per cell 5m size](https://github.com/brittanyjason/tortoise_mapping/blob/master/only4_5m_ptspercell.PNG)
+
+![class 4 vegetation points per cell 10m size](https://github.com/brittanyjason/tortoise_mapping/blob/master/only4_10m_ptspercell.PNG)
+
+![class 5 vegetation points per cell 1m size](https://github.com/brittanyjason/tortoise_mapping/blob/master/only5_1m_ptspercell.PNG)
+
+![class 5 vegetation points per cell 5m size](https://github.com/brittanyjason/tortoise_mapping/blob/master/only5_5m_ptspercell.PNG)
+
+![class 5 vegetation points per cell 10m size](https://github.com/brittanyjason/tortoise_mapping/blob/master/only5_10m_ptspercell.PNG)
+
+![ideal habitat](https://github.com/brittanyjason/tortoise_mapping/blob/master/sandhill.jpg)
