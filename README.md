@@ -2,11 +2,21 @@
 
 ![tortoise](GT1.jpg)
 
-## Gopher Tortoise Habitat
+## Gopher Tortoise Habitat & Protection
 
 Typically, gopher tortoises are found in upland habitats that consist of well-drained sandy soiled areas, you can find them in other habitats such as: scrub, xeric hammock, pine flatwoods, dry prairie, coastal grasslands and dunes, mixed hardwood-pine communities and other disturbed habitats (Auffenberg and Franz 1982; Kushlan and Mazzotti 1984; Diemer 1986, 1987, 1992b; Breininger et al. 1994; Ashton and Ashton 2008). 
 
+A management plan for gopher tortoises was created in 2007 by the Florida Wildlife Commission (FWC) it was revised in 2012 for continued recovery of the Species of Special Concern and this management plan will be re-evaluated in 2022. It is our hope that we can define managed areas for gopher tortoises in the Wekiwa Springs State Park before 2022 when the plan is re-evaluated. 
+
 ![ideal habitat](sandhill.jpg)
+
+## How You Can Help!
+
+Help Us! Be a citizen scientist! [FWC](https://mangomap.com/fwcwebmaster/maps/52930/Gopher-Tortoise-Sightings#) has an easy-to-use website that you can upload images of gopher tortoises that you have spotted with the location and they will map it for everyone to view. There have been very few citizen scientists in our study area and we would love your help! If you are enjoying the Wekiwa Springs State Park please feel free to take photos of gopher tortoises and their burrows, but remember, you are in their home and please do not disturb this protected species. Please take only pictures and leave only footprints!
+
+![tortoisesign](GT4.jpg)
+
+![tortoisesign3](GT6.JPG)
 
 ## Our Study Area
 
@@ -24,21 +34,28 @@ Light detection and ranging (LiDAR) is a remote sensing surveying method which m
 
 ## Digital Elevation Models (DEMs)
 
+DEM of all three vegetation classes (low, medium and high vegeation) 
+
 ![DEM of all vegetation classes](DEMclass3_4_5.PNG)
+
+DEM of Low Vegetation- Red is where there is a high amount of low vegetation, whereas blue is where there is a small amount of low vegetation 
 
 ![DEM of low vegetation](DEMclass3.PNG)
 
+DEM of Medium Vegetation- Red is where there is a high amount of medium vegetation, whereas blue is where there is a small amount of medium vegetation 
+
 ![DEM of mid vegetation](DEMclass4.PNG)
+
+DEM of High Vegetation- Red is where there is a high amount of high vegation, whereas blue is where there is a small amount of high vegeation. 
 
 ![DEM of high vegetation](DEMclass5.PNG)
 
-## How You Can Help!
+## Return Points Per Cell at 5m
 
-Help Us! Be a citizen scientist! [FWC](https://mangomap.com/fwcwebmaster/maps/52930/Gopher-Tortoise-Sightings#) has an easy-to-use website that you can upload images of gopher tortoises that you have spotted with the location and they will map it for everyone to view. There have been very few citizen scientists in our study area and we would love your help! If you are enjoying the Wekiwa Springs State Park please feel free to take photos of gopher tortoises and their burrows, but remember, you are in their home and please do not disturb this protected species. Please take only pictures and leave only footprints!
+Low Vegetation Points Per Cell 
 
-![tortoisesign](GT4.jpg)
-
-![tortoisesign3](GT6.JPG)
+![class 3 vegetation points per cell 5m size](only3_5m_ptspercell.PNG)
+Legend 
 
 You can use the [editor on GitHub](https://github.com/brittanyjason/tortoise_mapping/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -85,11 +102,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ![tortoise2](GT3.jpg)
 
-
-
 ![tortoisesign2](master/GT5.jpg)
-
-
 
 ![all vegetation classes points per cell 1m size](all345_1m_ptspercell.PNG)
 
@@ -99,7 +112,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ![class 3 vegetation points per cell 1m size](only3_1mptspercell.PNG)
 
-![class 3 vegetation points per cell 5m size](only3_5m_ptspercell.PNG)
+
 
 ![class 3 vegetation points per cell 10m size](only3_10m_ptspercell.PNG)
 
