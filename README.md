@@ -83,3 +83,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ![ideal habitat](sandhill.jpg)
 
 ![study area](StudyArea.PNG)
+
+![study area](largestudyarea.PNG)
+
+![study area](studyarea2.PNG)
