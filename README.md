@@ -52,7 +52,7 @@ DEM of High Vegetation- Red is where there is a high amount of high vegation, wh
 
 ## Return Points Per Cell at 5m
 
-Low Vegetation Points Per Cell 
+Low Vegetation
 
 ![class 3 vegetation points per cell 5m size](only3_5m_ptspercell.PNG)
 Legend 
