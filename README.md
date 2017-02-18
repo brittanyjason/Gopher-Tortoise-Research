@@ -100,6 +100,23 @@ Data Provider Acknowledgment
 OpenTopography hosts datasets that have been collected by many research, governmental, and non-profit organizations funded by a variety of sources. The data user bears sole responsibility for recognizing the role of the data provider through co-authorship, citation, sponsor acknowledgement, and/or attribution, as appropriate and consistent with professional standards and sponsor requirements.
 OpenTopography provides dataset acknowledgement language specific to each hosted dataset. This language is composed by the data provider can be found on the dataset access page and through the dataset’s metadata. OpenTopography also provides a Digital Object Identifier (DOI) for each hosted dataset as a means to facilitate data citation. Inclusion of the dataset’s DOI in your data citation or acknowledgement ensures that the dataset can be accessed and reused, data impact can be tracked, and that data producers and collectors are recognized.
 
+## References
+
+Auffenberg, W., and R. Franz. 1982. The status and distribution of the gopher tortoise (Gopherus polyphemus). Pages 95–126 in R. B. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bury, editor. North American tortoises: Conservation and ecology. U.S. Fish and Wildlife Service, Wildlife Research Report 12.
+
+Ashton, R. E., and P. S. Ashton. 2008. The Natural History and Management of the Gopher Tortoise Gopherus polyphemus (Daudin). Krieger &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Press, Malabar, Florida, USA. 
+
+Breininger, D. R., P. A. Schmalzer, and C. R. Hinkle. 1994. Gopher tortoise (Gopherus polyphemus) densities in coastal scrub and slash &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pine flatwoods in Florida. Journal of Herpetology 28:60–65.
+
+Diemer, J. E. 1986. The ecology and management of the gopher tortoise in the southeastern United States. Herpetologica 42:125–133.
+
+Diemer, J. E. 1987. The status of the gopher tortoise in Florida. Pages 72-83 in R. Odom, K. Riddleberger, and J. Osier, editors. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proceedings of the Third Southeastern Nongame and Endangered Wildlife Symposium. Georgia Department &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of Natural Resources, Game and Fish Division, Atlanta, USA.
+
+Diemer, J. E. 1992b. Home range and movements of the tortoise Gopherus polyphemus in northern Florida. Journal of Herpetology 26:158–&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;162.
+
+Kushlan, J. A., and F. J. Mazzotti. 1984. Environmental effects on a coastal population of gopher tortoises. Journal of Herpetology &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;18:231–239.
+
+
 
 You can use the [editor on GitHub](https://github.com/brittanyjason/tortoise_mapping/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
