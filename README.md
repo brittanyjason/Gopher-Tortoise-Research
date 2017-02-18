@@ -30,7 +30,9 @@ Light detection and ranging (LiDAR) is a remote sensing surveying method which m
 
 ![DEM of high vegetation](DEMclass5.PNG)
 
+## How You Can Help!
 
+Help Us! Be a citizen scientist! [FWC](https://mangomap.com/fwcwebmaster/maps/52930/Gopher-Tortoise-Sightings#) has an easy-to-use website that you can upload images of gopher tortoises that you have spotted with the location and they will map it for everyone to view. There have been very few citizen scientists in our study area and we would love your help! If you are enjoying the Wekiwa Springs State Park please feel free to take photos of gopher tortoises and their burrows, but remember, you are in their home and please do not disturb this protected species. Please take only pictures and leave only footprints!
 
 You can use the [editor on GitHub](https://github.com/brittanyjason/tortoise_mapping/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
