@@ -55,7 +55,25 @@ DEM of High Vegetation- Red is where there is a high amount of high vegation, wh
 Low Vegetation
 
 ![class 3 vegetation points per cell 5m size](only3_5m_ptspercell.PNG)
-Legend 
+Legend ![legendclass3 5m](legend_5m_3only.PNG)
+
+Medium Vegetation
+
+![class 4 vegetation points per cell 5m size](only4_5m_ptspercell.PNG)
+Legend ![legend class 4 5m](legend_5m_4only.PNG)
+
+High Vegetation
+
+![class 5 vegetation points per cell 5m size](only5_5m_ptspercell.PNG)
+Legend ![class5 5m](legend_5m_5only.PNG)
+
+All Three Classes Together
+
+![all vegetation classes points per cell 5m size](all345_5m_ptspercell.PNG)
+Legend ![all3 5m](legend_5m_345all.PNG)
+
+
+
 
 You can use the [editor on GitHub](https://github.com/brittanyjason/tortoise_mapping/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -104,26 +122,14 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ![tortoisesign2](master/GT5.jpg)
 
-![all vegetation classes points per cell 1m size](all345_1m_ptspercell.PNG)
-
-![all vegetation classes points per cell 5m size](all345_5m_ptspercell.PNG)
-
 ![all vegetation classes points per cell 10m size](all345_10m_ptspercell.PNG)
-
-![class 3 vegetation points per cell 1m size](only3_1mptspercell.PNG)
-
 
 
 ![class 3 vegetation points per cell 10m size](only3_10m_ptspercell.PNG)
 
-![class 4 vegetation points per cell 1m size](only4_1mptspercell.PNG)
-
-![class 4 vegetation points per cell 5m size](only4_5m_ptspercell.PNG)
-
 ![class 4 vegetation points per cell 10m size](only4_10m_ptspercell.PNG)
 
-![class 5 vegetation points per cell 1m size](only5_1m_ptspercell.PNG)
 
-![class 5 vegetation points per cell 5m size](only5_5m_ptspercell.PNG)
+
 
 ![class 5 vegetation points per cell 10m size](only5_10m_ptspercell.PNG)
