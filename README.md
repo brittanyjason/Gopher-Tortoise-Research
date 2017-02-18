@@ -130,8 +130,6 @@ Diemer, J. E. 1992b. Home range and movements of the tortoise Gopherus polyphemu
 
 Kushlan, J. A., and F. J. Mazzotti. 1984. Environmental effects on a coastal population of gopher tortoises. Journal of Herpetology 18:231–239.
 
-<p align="center">
-  <img ![tortoise2](GT2.jpg)/>
-</p>
+![tortoise2](GT2.jpg?style=centerme)
 
 This webpage was created on the 18th of February 2017 by Jason Richardson and Brittany Capra at the University of South Florida in Tampa, FL.
