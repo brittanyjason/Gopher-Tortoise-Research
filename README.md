@@ -82,4 +82,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ![ideal habitat](sandhill.jpg)
 
-![study area](StudyArea.png)
+![study area](StudyArea.PNG)
