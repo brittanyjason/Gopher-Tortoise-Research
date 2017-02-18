@@ -1,4 +1,4 @@
-# Establishing Ideal Habitat Locations to Determine Potential Gopher Tortoise (Gopherus polyphemus) Protected Areas with LiDAR Data
+# Establishing Ideal Habitat Locations to Determine Potential Gopher Tortoise (_Gopherus polyphemus_) Protected Areas with LiDAR Data
 
 ![tortoise](GT1.jpg)
 
