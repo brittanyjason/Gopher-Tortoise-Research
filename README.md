@@ -125,6 +125,4 @@ Kushlan, J. A., and F. J. Mazzotti. 1984. Environmental effects on a coastal pop
 
 ![tortoise2](GT3.jpg)
 
-![tortoisesign2](master/GT5.jpg)
-
 ![areashighlighted](tortiareas.png)
