@@ -38,6 +38,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ![DEM of low vegetation](https://github.com/brittanyjason/tortoise_mapping/blob/master/DEMclass3.PNG)
 
-![DEM of mid vegetation](https://github.com/brittanyjason/tortoise_mapping/blob/master/DEMclass4.PNG)
-
 ![tortoise](https://github.com/brittanyjason/tortoise_mapping/blob/master/GT1.jpg)
+
+![tortoise2](https://github.com/brittanyjason/tortoise_mapping/blob/master/GT2.jpg)
