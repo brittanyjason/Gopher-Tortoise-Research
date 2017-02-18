@@ -10,7 +10,7 @@ Typically, gopher tortoises are found in upland habitats that consist of well-dr
 A management plan for gopher tortoises was created in 2007 by the Florida Wildlife Commission (FWC) it was revised in 2012 for continued recovery of the Species of Special Concern and this management plan will be re-evaluated in 2022. It is our hope that we can define managed areas for gopher tortoises in the Wekiwa Springs State Park before 2022 when the plan is re-evaluated. 
 
 ![ideal habitat](sandhill.jpg)
-Source:
+Source:https://beetlesinthebush.files.wordpress.com/2009/12/img_1195_1200x800_enh.jpg
 
 ## How You Can Help!
 
@@ -37,6 +37,7 @@ Points were classified into low vegetation (points below 0.5 meters but above th
 Light detection and ranging (LiDAR) is a remote sensing surveying method which measures the distance from an aerial sensor to the surface of the landscape. Each time an object is registered a point is generated. Each LiDAR dataset may contain millions of points to map the landscape. The landscape is represented by all natural and artificial object and structures, so LiDAR maps the surface of the ground, trees, buildings, etc. Utilizing algorithms, software analyzes the points to classify various terrain types such as the ground surface, low vegetation, medium vegetation, and high vegetation. These different types are represented in a point map as different colors.
 
 ![lidar explanation](lidar.jpg)
+Source:https://www.flickr.com/photos/128087132@N06/15407288840 
 
 ## Digital Elevation Models (DEMs)
 
@@ -135,5 +136,6 @@ Diemer, J. E. 1992b. Home range and movements of the tortoise Gopherus polyphemu
 Kushlan, J. A., and F. J. Mazzotti. 1984. Environmental effects on a coastal population of gopher tortoises. Journal of Herpetology 18:231–239.
 
 ![tortoise2](GT2.jpg)
+Source: http://www.americaslongleaf.org/news/news-articles/range-wide-conservation-strategy-for-the-gopher-tortoise-now-available/
 
 This webpage was created on the 18th of February 2017 by Jason Richardson and Brittany Capra at the University of South Florida in Tampa, FL.
