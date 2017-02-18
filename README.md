@@ -102,57 +102,22 @@ OpenTopography provides dataset acknowledgement language specific to each hosted
 
 ## References
 
-Auffenberg, W., and R. Franz. 1982. The status and distribution of the gopher tortoise (Gopherus polyphemus). Pages 95–126 in R. B. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bury, editor. North American tortoises: Conservation and ecology. U.S. Fish and Wildlife Service, Wildlife Research Report 12.
+Auffenberg, W., and R. Franz. 1982. The status and distribution of the gopher tortoise (Gopherus polyphemus). Pages 95–126 in R. B. Bury, editor. North American tortoises: Conservation and ecology. U.S. Fish and Wildlife Service, Wildlife Research Report 12.
 
-Ashton, R. E., and P. S. Ashton. 2008. The Natural History and Management of the Gopher Tortoise Gopherus polyphemus (Daudin). Krieger &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Press, Malabar, Florida, USA. 
+Ashton, R. E., and P. S. Ashton. 2008. The Natural History and Management of the Gopher Tortoise Gopherus polyphemus (Daudin). Krieger Press, Malabar, Florida, USA. 
 
-Breininger, D. R., P. A. Schmalzer, and C. R. Hinkle. 1994. Gopher tortoise (Gopherus polyphemus) densities in coastal scrub and slash &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pine flatwoods in Florida. Journal of Herpetology 28:60–65.
+Breininger, D. R., P. A. Schmalzer, and C. R. Hinkle. 1994. Gopher tortoise (Gopherus polyphemus) densities in coastal scrub and slash pine flatwoods in Florida. Journal of Herpetology 28:60–65.
 
 Diemer, J. E. 1986. The ecology and management of the gopher tortoise in the southeastern United States. Herpetologica 42:125–133.
 
-Diemer, J. E. 1987. The status of the gopher tortoise in Florida. Pages 72-83 in R. Odom, K. Riddleberger, and J. Osier, editors. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proceedings of the Third Southeastern Nongame and Endangered Wildlife Symposium. Georgia Department &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of Natural Resources, Game and Fish Division, Atlanta, USA.
+Diemer, J. E. 1987. The status of the gopher tortoise in Florida. Pages 72-83 in R. Odom, K. Riddleberger, and J. Osier, editors. Proceedings of the Third Southeastern Nongame and Endangered Wildlife Symposium. Georgia Department of Natural Resources, Game and Fish Division, Atlanta, USA.
 
-Diemer, J. E. 1992b. Home range and movements of the tortoise Gopherus polyphemus in northern Florida. Journal of Herpetology 26:158–&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;162.
+Diemer, J. E. 1992b. Home range and movements of the tortoise Gopherus polyphemus in northern Florida. Journal of Herpetology 26:158–162.
 
-Kushlan, J. A., and F. J. Mazzotti. 1984. Environmental effects on a coastal population of gopher tortoises. Journal of Herpetology &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;18:231–239.
+Kushlan, J. A., and F. J. Mazzotti. 1984. Environmental effects on a coastal population of gopher tortoises. Journal of Herpetology 18:231–239.
 
 
 
-You can use the [editor on GitHub](https://github.com/brittanyjason/tortoise_mapping/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-``'
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brittanyjason/tortoise_mapping/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 ![lidar explanation](lidar.jpg)
 
@@ -161,3 +126,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ![tortoise2](GT3.jpg)
 
 ![tortoisesign2](master/GT5.jpg)
+
+![areashighlighted](tortiareas.png)
