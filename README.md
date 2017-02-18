@@ -1,6 +1,7 @@
 # Establishing Ideal Habitat Locations to Determine Potential Gopher Tortoise (*Gopherus polyphemus*) Protected Areas with LiDAR Data
 
 ![tortoise](GT1.jpg)
+Source: http://tort-time.com/post/126830290707/animal-alphabet-t-is-for-tortoise-gopher
 
 ## Gopher Tortoise Habitat & Protection
 
@@ -9,14 +10,17 @@ Typically, gopher tortoises are found in upland habitats that consist of well-dr
 A management plan for gopher tortoises was created in 2007 by the Florida Wildlife Commission (FWC) it was revised in 2012 for continued recovery of the Species of Special Concern and this management plan will be re-evaluated in 2022. It is our hope that we can define managed areas for gopher tortoises in the Wekiwa Springs State Park before 2022 when the plan is re-evaluated. 
 
 ![ideal habitat](sandhill.jpg)
+Source:
 
 ## How You Can Help!
 
 Help Us! Be a citizen scientist! [FWC](https://mangomap.com/fwcwebmaster/maps/52930/Gopher-Tortoise-Sightings#) has an easy-to-use website that you can upload images of gopher tortoises that you have spotted with the location and they will map it for everyone to view. There have been very few citizen scientists in our study area and we would love your help! If you are enjoying the Wekiwa Springs State Park please feel free to take photos of gopher tortoises and their burrows, but remember, you are in their home and please do not disturb this protected species. Please take only pictures and leave only footprints!
 
 ![tortoisesign](GT4.jpg)
+Source: http://www.ncflindependent.com/2016/02/27/amelia-island-earth-keepers-mobilize-to-protect-gopher-tortoises-from-development/
 
 ![tortoisesign3](GT6.JPG)
+Source: http://www.pearassoc.org/Gopher%20Tortoise.htm
 
 ## Our Study Area
 
