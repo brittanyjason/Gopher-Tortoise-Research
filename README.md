@@ -80,4 +80,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ![class 5 vegetation points per cell 10m size](https://github.com/brittanyjason/tortoise_mapping/blob/master/only5_10m_ptspercell.PNG)
 
-![ideal habitat](https://github.com/brittanyjason/tortoise_mapping/blob/master/sandhill.jpg)
+![ideal habitat](sandhill.jpg)
