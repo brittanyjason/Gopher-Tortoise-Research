@@ -8,7 +8,7 @@ This LiDAR dataset is a 17 km2 subset from a 49 km2 total area from Wekiwa Sprin
  
 Points were classified into low vegetation (points below 0.5 meters but above the ground), medium vegetation (points from 0.5 – 2 meters above the ground), and high vegetation (points between 2-10 meters above the ground). These three classes were then individual isolated into three separate digital elevation models (DEMs), which map the density of these classes. 
 
-![subset area](subsetarea.PNG)
+![subset area](subsetarea.png)
 
 ![study area](StudyArea.PNG)
 
