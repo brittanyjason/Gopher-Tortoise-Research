@@ -1,13 +1,14 @@
 # Establishing Ideal Habitat Locations to Determine Potential Gopher Tortoise (Gopherus polyphemus) Protected Areas with LiDAR Data
+
 ![tortoise](GT1.jpg)
 
-##Our Study Area
+## Our Study Area
 
-This LiDAR dataset is a 17 km2 subset from a 49 km2 total area from Wekiwa Springs State Park obtained from [OpenTopography](http://opentopo.sdsc.edu/lidarDataset?opentopoID=OTLAS.062012.26917.1) There are 112700100 points in the subset. The area is comprised of sandhill and flatwood habitats with some ephemeral swamps. Prescribed fires are often conducted which will clear out excess fuel loads, and provide open ground for new vegetation to propagate. This new vegetation provides palatable forage for many herbivores. The west and south sides are bordering residential areas.
+This LiDAR dataset is a 17 km2 subset from a 49 km2 total area from Wekiwa Springs State Park obtained from [OpenTopography](http://opentopo.sdsc.edu/lidarDataset?opentopoID=OTLAS.062012.26917.1). There are 112700100 points in the subset. The area is comprised of sandhill and flatwood habitats with some ephemeral swamps. Prescribed fires are often conducted which will clear out excess fuel loads, and provide open ground for new vegetation to propagate. This new vegetation provides palatable forage for many herbivores. The west and south sides are bordering residential areas.
  
 Points were classified into low vegetation (points below 0.5 meters but above the ground), medium vegetation (points from 0.5 – 2 meters above the ground), and high vegetation (points between 2-10 meters above the ground). These three classes were then individual isolated into three separate digital elevation models (DEMs), which map the density of these classes. 
 
-##What is LiDAR?
+## What is LiDAR?
 
 Light detection and ranging (LiDAR) is a remote sensing surveying method which measures the distance from an aerial sensor to the surface of the landscape. Each time an object is registered a point is generated. Each LiDAR dataset may contain millions of points to map the landscape. The landscape is represented by all natural and artificial object and structures, so LiDAR maps the surface of the ground, trees, buildings, etc. Utilizing algorithms, software analyzes the points to classify various terrain types such as the ground surface, low vegetation, medium vegetation, and high vegetation. These different types are represented in a point map as different colors.
 
